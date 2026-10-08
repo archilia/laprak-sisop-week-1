@@ -66,7 +66,7 @@ Tahapan yang terjadi adalah:
 
 Proses ini menunjukkan bahwa perangkat target tidak memerlukan media penyimpanan lokal untuk menjalankan sistem operasi, karena semua file boot diambil dari jaringan.
 
-![Booting Backend VM](asset/xinu5.png)
+![Booting Backend VM](modul/xinu5.png)
 
 *Gambar 2: Tampilan Backend VM saat melakukan booting melalui jaringan (PXE) dan memuat GRUB.*
 
@@ -85,7 +85,7 @@ xinurocks
 
 **Hasil**: Terminal Development-System terhubung langsung ke console Xinu di Backend VM. Prompt berubah dari format Linux biasa menjadi `xsh$`, yang menandakan bahwa praktikan sudah masuk ke shell Xinu.
 
-![Koneksi Minicom](asset/xsh.png)
+![Koneksi Minicom](modul/asset/xsh.png)
 
 *Gambar 3: Koneksi berhasil melalui Minicom, ditandai dengan munculnya prompt `xsh$`.*
 
@@ -100,7 +100,7 @@ Hasil dari perintah ini menampilkan berbagai command dasar seperti perintah untu
 
 Selain itu, praktikan juga mencoba perintah seperti `ls`, `cd`, dan beberapa perintah dasar lainnya untuk memahami struktur file dan mekanisme navigasi shell Xinu.
 
-![Perintah Help Xinu](asset/help.png)
+![Perintah Help Xinu](modul/asset/help.png)
 
 *Gambar 4: Output dari perintah `help` yang menampilkan daftar command bawaan Xinu OS.*
 
