@@ -74,7 +74,7 @@ Proses booting yang terjadi meliputi:
 
 Dari proses tersebut dapat diketahui bahwa Backend VM dapat menjalankan sistem operasi tanpa membutuhkan media penyimpanan lokal karena file yang dibutuhkan diperoleh melalui jaringan.
 
-![Booting Backend VM](modul/xinu5.png)
+![Booting Backend VM](modul/asset/xinu5.png)
 
 *Gambar 2: Tampilan Backend VM ketika melakukan proses network booting melalui PXE dan memuat GRUB.*
 
