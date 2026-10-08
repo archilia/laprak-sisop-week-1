@@ -51,7 +51,7 @@ $ make
 
 **Hasil**: Proses `make` akan mengompilasi seluruh kode sumber C menjadi image Xinu yaitu `xinu.elf`. Image tersebut kemudian akan disalin ke direktori TFTP agar siap di-boot oleh mesin target. Proses kompilasi ini merupakan tahapan penting karena semua program dan kernel Xinu dibangun di sini sebelum dijalankan di Backend VM.
 
-![Terminal Compile Xinu](asset/make.png)
+![Terminal Compile Xinu](modul/asset/make.png)
 
 *Gambar 1: Proses kompilasi source code Xinu menggunakan perintah `make` pada Development-System VM.*
 
