@@ -7,7 +7,7 @@
 | Item                  | Keterangan                |
 | --------------------- | ------------------------- |
 | **Nama**              | Archilia Friti Simbala    |
-| **NIM**               | 108072500049              |
+| **NIM**               | 108072500180              |
 | **Kelas**             | IF 05-04                  |
 | **Asisten Praktikum** | Nuevalen Refitra Alswando |
 | **Tanggal Praktikum** | 25-09-2026                |
